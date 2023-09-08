@@ -1,0 +1,2 @@
+
+add_subdirectory($ENV{MetaLexer_lexer_Path} EXCLUDE_FROM_ALL MetaLexer_lexer_binary_dir)

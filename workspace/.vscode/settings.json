@@ -1,0 +1,132 @@
+{
+    "files.exclude": {
+        "**/*.sh": false,
+        "**/out/": true
+    },
+    "favorites.resources": [
+        {
+            "filePath": "RegexUtil",
+            "group": "Default"
+        },
+        {
+            "filePath": "SemanticUtil",
+            "group": "Default"
+        },
+        {
+            "filePath": "LexerCombinatorUtil",
+            "group": "Default"
+        },
+        {
+            "filePath": "LexerUtil",
+            "group": "Default"
+        },
+        {
+            "filePath": "ParserCombinatorUtil",
+            "group": "Default"
+        },
+        {
+            "filePath": "ParserUtil",
+            "group": "Default"
+        },
+        {
+            "filePath": "LLVMIRUtil",
+            "group": "Default"
+        }
+    ],
+    "favorites.sortOrder": "MANUAL",
+    "favorites.saveSeparated": false,
+    "favorites.groups": [
+        "Default"
+    ],
+    "favorites.currentGroup": "Default",
+    "files.associations": {
+        "array": "cpp",
+        "atomic": "cpp",
+        "bit": "cpp",
+        "*.tcc": "cpp",
+        "bitset": "cpp",
+        "cctype": "cpp",
+        "chrono": "cpp",
+        "clocale": "cpp",
+        "cmath": "cpp",
+        "condition_variable": "cpp",
+        "cstdarg": "cpp",
+        "cstddef": "cpp",
+        "cstdint": "cpp",
+        "cstdio": "cpp",
+        "cstdlib": "cpp",
+        "cstring": "cpp",
+        "ctime": "cpp",
+        "cwchar": "cpp",
+        "cwctype": "cpp",
+        "deque": "cpp",
+        "map": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "exception": "cpp",
+        "algorithm": "cpp",
+        "functional": "cpp",
+        "iterator": "cpp",
+        "memory": "cpp",
+        "memory_resource": "cpp",
+        "numeric": "cpp",
+        "optional": "cpp",
+        "random": "cpp",
+        "ratio": "cpp",
+        "regex": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "system_error": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "fstream": "cpp",
+        "initializer_list": "cpp",
+        "iosfwd": "cpp",
+        "iostream": "cpp",
+        "istream": "cpp",
+        "limits": "cpp",
+        "new": "cpp",
+        "ostream": "cpp",
+        "shared_mutex": "cpp",
+        "sstream": "cpp",
+        "stdexcept": "cpp",
+        "streambuf": "cpp",
+        "typeinfo": "cpp",
+        "list": "cpp",
+        "cinttypes": "cpp",
+        "set": "cpp",
+        "*.def": "cpp",
+        "mutex": "cpp",
+        "thread": "cpp",
+        "iomanip": "cpp",
+        "codecvt": "cpp",
+        "variant": "cpp",
+        "__bit_reference": "cpp",
+        "__bits": "cpp",
+        "__config": "cpp",
+        "__debug": "cpp",
+        "__errc": "cpp",
+        "__hash_table": "cpp",
+        "__locale": "cpp",
+        "__mutex_base": "cpp",
+        "__node_handle": "cpp",
+        "__split_buffer": "cpp",
+        "__threading_support": "cpp",
+        "__tree": "cpp",
+        "__tuple": "cpp",
+        "__verbose_abort": "cpp",
+        "ios": "cpp",
+        "locale": "cpp",
+        "queue": "cpp",
+        "stack": "cpp",
+        "__memory": "cpp",
+        "any": "cpp",
+        "__nullptr": "cpp",
+        "__string": "cpp",
+        "*.inc": "cpp",
+        "filesystem": "cpp",
+        "compare": "cpp"
+    },
+    "favorites.sortDirection": "ASC"
+}

@@ -1,0 +1,23 @@
+#pragma once
+
+#include <algorithm>
+#include <any>
+#include <bitset>
+#include <chrono>
+#include <deque>
+#include <functional>
+#include <iostream>
+#include <iterator>
+#include <list>
+#include <locale>
+#include <map>
+#include <memory>
+#include <queue>
+#include <regex>
+#include <set>
+#include <stack>
+#include <string>
+#include <thread>
+#include <typeinfo>
+#include <utility>
+#include <vector>

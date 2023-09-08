@@ -1,0 +1,3 @@
+
+
+add_subdirectory($ENV{ParserCombinatorUtil_Path} EXCLUDE_FROM_ALL ParserCombinatorUtil_binary_dir)

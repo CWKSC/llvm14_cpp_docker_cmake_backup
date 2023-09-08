@@ -1,0 +1,3 @@
+
+
+add_subdirectory($ENV{LexerCombinatorUtil_Path} EXCLUDE_FROM_ALL LexerCombinatorUtil_binary_dir)
